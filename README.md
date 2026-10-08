@@ -3,15 +3,14 @@
 
 ### Hi, there! 👋
 
-Hello! I'm Mark, a software developer from Greece!
-
-My pronouns are he/him.
+Hello! I'm Mark, a software developer from Greece!  
+I'm currently studying Computer Science in University.
 
 ## 📚 Socials
 
 - 📱 Discord: [markoes](https://discord.com/users/336930170596360204)
 
-## 🤓 Want to know more?
+## Want to know more?
 
 <details>
     <summary><b>👀  What I'm doing</b></summary>
